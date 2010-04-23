@@ -23,7 +23,7 @@
 	        <g:layoutBody />	
 	        
 	        <div class="footer">
-	        	Groovy, Grails, Google, and Gangs - Justin Spradlin
+	        	Groovy, Grails, Google, and Gangs - <a href="http://www.justinspradlin.com">Justin Spradlin</a>
 	        </div>	        	
     	</div>	
     </body>	

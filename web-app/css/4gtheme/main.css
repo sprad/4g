@@ -70,9 +70,11 @@ div.footer{
 	padding-left: 10px;
 }
 
-div#incidentMap {
-	height: 535px;
-	width: 100%; 
+div.footer a{
+    border: 0px;
+	color: #ccc;
+	font-weight: normal;
+    text-decoration: none;
 }
 
 a:link, a:visited, a:hover {
@@ -80,6 +82,11 @@ a:link, a:visited, a:hover {
 	color: #333;
     font-weight: bold;
     text-decoration: none;
+}
+
+div#incidentMap {
+	height: 535px;
+	width: 100%; 
 } 
 
 h1 {
